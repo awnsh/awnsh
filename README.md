@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nomashift.com"><img src="https://img.shields.io/badge/nomashift.com-C8553D?style=flat-square&logo=googlechrome&logoColor=white" alt="nomashift.com"></a>
+  <a href="https://nomashift.com"><img src="https://img.shields.io/badge/nomashift.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="nomashift.com"></a>
   <a href="https://www.linkedin.com/in/anshukani"><img src="https://img.shields.io/badge/LinkedIn-anshukani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Purdue-Electrical%20Engineering-CFB991?style=flat-square" alt="Purdue Electrical Engineering">
 </p>
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td width="100%">
-      <h3><a href="https://nomashift.com">Noma</a> &nbsp;<img src="https://img.shields.io/badge/beta-Mac%20%C2%B7%20Windows-C8553D?style=flat-square" alt="beta on Mac and Windows" align="center"></h3>
+      <h3><a href="https://nomashift.com">Noma</a> &nbsp;<img src="https://img.shields.io/badge/beta-Mac%20%C2%B7%20Windows-2563EB?style=flat-square" alt="beta on Mac and Windows" align="center"></h3>
       <p><b>Your computer, adapting to you.</b> Noma sees which app you're in, notices the sequences you keep repeating (screenshot → paste into Claude → commit) and offers to turn them into a single action.</p>
       <ul>
         <li><b>Glide</b> — swipe in from the palm rest onto the trackpad to get four controls for the app you're in. VS Code, Chrome, Figma, Premiere, Spotify each get their own.</li>
