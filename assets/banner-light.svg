@@ -28,8 +28,8 @@
   <g class="s">
     <text x="56" y="76" font-size="14" font-weight="700" letter-spacing="2.5" fill="#2563EB">ENGINEERING @ PURDUE — FOUNDER OF NOMA</text>
     <text x="53" y="146" font-size="62" font-weight="700" fill="#1f2328" letter-spacing="-2">Ansh <tspan font-weight="400">Ukani</tspan><tspan fill="#2563EB">.</tspan></text>
-    <text x="56" y="192" font-size="18.5" font-weight="400" fill="#59636e">Building a computer interface that learns your workflow</text>
-    <text x="56" y="218" font-size="18.5" font-weight="400" fill="#59636e">instead of making you adapt to it.</text>
+    <text x="56" y="192" font-size="18.5" font-weight="400" fill="#59636e">Building a keyboard that learns how you type,</text>
+    <text x="56" y="218" font-size="18.5" font-weight="400" fill="#59636e">designed in the open.</text>
   </g>
   <g transform="translate(644 76.25) scale(0.1) translate(-150 -20)">
     <use href="#logo" fill="#3B82F6" fill-opacity="0.2" filter="url(#shadow)"/>

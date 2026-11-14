@@ -18,14 +18,16 @@
 <table>
   <tr>
     <td width="100%">
-      <h3><a href="https://nomashift.com">Noma</a> &nbsp;<img src="https://img.shields.io/badge/beta-Mac%20%C2%B7%20Windows-2563EB?style=flat-square" alt="beta on Mac and Windows" align="center"></h3>
-      <p><b>Your computer, adapting to you.</b> Noma sees which app you're in, notices the sequences you keep repeating (screenshot → paste into Claude → commit) and offers to turn them into a single action.</p>
+      <h3><a href="https://nomashift.com">Noma</a> &nbsp;<img src="https://img.shields.io/badge/waitlist-open-E8590C?style=flat-square" alt="waitlist open" align="center"></h3>
+      <p><b>A keyboard that learns how you type.</b> Every key knows how far you pressed it, and Noma tunes each one to the way you type. Fewer missed keys, fewer accidental ones, nothing to set up.</p>
       <ul>
-        <li><b>Glide</b> — swipe in from the palm rest onto the trackpad to get four controls for the app you're in. VS Code, Chrome, Figma, Premiere, Spotify each get their own.</li>
-        <li><b>Flow</b> — learns the <i>shape</i> of how you work, never the content. No keystrokes, no screen, no clipboard. Off until you turn it on, and nothing leaves your machine.</li>
-        <li><b>Next up</b> — the physical module: a small adaptive display with four buttons, designed around the software.</li>
+        <li><b>Every key, measured</b> — a magnet in each switch and a sensor under it read the whole press, not just on or off.</li>
+        <li><b>Tuned to you</b> — each key's actuation point moves to where you actually press it, and keeps adjusting when you're tired, at a new desk or on new keycaps.</li>
+        <li><b>Just a keyboard</b> — plug it in on any computer. It learns on the board itself. No app, no account, no subscription.</li>
+        <li><b>Built in public</b> — designed by me, in the open. Every test and every wrong turn gets shared as it happens.</li>
       </ul>
-      <p><a href="https://github.com/awnsh/Noma">Repo</a> · <a href="https://nomashift.com">Join the beta →</a></p>
+      <p><a href="https://nomashift.com">Join the waitlist →</a> · <a href="https://github.com/awnsh/Noma">Repo</a></p>
+      <sub>Before the keyboard, Noma was a desktop app (Flow + Glide) that turned repeated workflows into one-press actions. It's still in the repo.</sub>
     </td>
   </tr>
 </table>
@@ -66,7 +68,7 @@
 ### ✧ &nbsp;Off the keyboard
 
 - 🏆 &nbsp;**1st in the nation, Digital Video Production** — TSA National Conference 2025 (and 1st at Pennsylvania States). I filmed and edited most of our film.
-- 🔧 &nbsp;Electronics, robotics, CAD and 3D printing — the hardware side of Noma.
+- 🔧 &nbsp;Electronics, robotics, CAD and 3D printing — the stuff that makes the Noma keyboard possible.
 
 <br>
 
@@ -79,5 +81,5 @@
 <br>
 
 <p align="center">
-  <sub>Switch between a few apps all day? <a href="https://nomashift.com">Try Noma for a week</a> and tell me what it got wrong.</sub>
+  <sub>Want to type on it first? <a href="https://nomashift.com">Get on the Noma waitlist</a>.</sub>
 </p>
